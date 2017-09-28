@@ -1,0 +1,6 @@
+{"id": "foo", "timestamp": "2014-01-01 04:00:00", "work_done": 0,  "work_total": 10}
+{"id": "foo", "timestamp": "2014-01-01 05:10:00", "work_done": 2,  "work_total": 10,  "text": ["f1", "f2", "f3"]}
+{"id": "baz", "timestamp": "2014-01-01 06:00:00", "work_done": 10,  "work_total": 20,  "text": ["z1", "z2", "z3"]}
+{"id": "foo", "timestamp": "2014-01-01 05:00:15", "work_done": 2,  "work_total": 10,  "text": ["f1", "f2", "f3"],  "text2": "foo text 2"}
+{"id": "bar", "timestamp": "2014-01-01 06:00:05", "work_done": 11,  "work_total": 20,  "text": ["b1", "b2", "b3"]}
+{"id": "foo", "timestamp": "2014-01-01 05:10:10", "work_done": 3,  "work_total": 10,  "text": ["f1", "f2", "f3"]}

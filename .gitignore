@@ -1,0 +1,5 @@
+.idea/
+io/
+log/
+*.pyc
+libpeerconnection.log

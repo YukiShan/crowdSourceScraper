@@ -1,0 +1,30 @@
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'1 star', u'1 star', u'5 stars', u'1 star', u'1 star', u'1 star']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'6'>]
+([u'1'], 6)
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'1 star', u'1 star', u'1 star', u'1 star', u'1 star', u'1 star']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'6'>]
+([u'2'], 6)
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'1 star', u'5 stars', u'1 star', u'1 star', u'1 star', u'2 stars']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'6'>]
+([u'3'], 6)
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'2 stars', u'1 star', u'1 star', u'1 star', u'1 star', u'2 stars']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'7'>]
+([u'4'], 7)
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'1 star', u'5 stars', u'5 stars', u'5 stars', u'2 stars', u'1 star']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'6'>]
+([u'5'], 6)
+>>>>>>>test from here 210 <<<<<<<<<<<
+[u'5 stars', u'1 star', u'1 star', u'1 star', u'3 stars', u'1 star']
+>>>>>>>test from here 220 <<<<<<<<<<<
+[<Selector xpath='//body//div[@class="paginated-content"]/@total-number-of-pages' data=u'6'>]
+([u'6'], 6)
